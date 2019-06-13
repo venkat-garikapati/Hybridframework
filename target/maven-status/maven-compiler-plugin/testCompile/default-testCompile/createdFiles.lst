@@ -1,0 +1,8 @@
+com\Hybridframework\testcases\TC_addcustomer_003.class
+com\Hybridframework\testcases\Baseclass.class
+com\Hybridframework\pageobjects\Addcustomer.class
+com\Hybridframework\testcases\TC_Logintest_001.class
+com\Hybridframework\testcases\TC_loginDDT_002.class
+com\Hybridframework\utilites\Readconfig.class
+com\Hybridframework\utilites\Reporting.class
+com\Hybridframework\pageobjects\Loginpage.class
